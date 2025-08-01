@@ -238,13 +238,6 @@
                 margin-bottom: 30px;
             }
 
-            .color, 
-            .painting {
-                width: 400px;
-                height: 250px;
-                aspect-ratio: 8/5;
-            }
-
             .description, 
             .text-between {
                 max-width: 100%;
