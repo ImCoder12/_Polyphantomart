@@ -81,7 +81,7 @@
         }
         
         .subtitle {
-            font-size: 0.4em;
+            font-size: 0.5em;
             color: var(--secondary-color);
             font-style: italic;
             margin-bottom: 30px;
@@ -104,8 +104,8 @@
         }
 
         .painting {
-            width: 556px;
-            height: 251px;
+            width: 400px;
+            height: 250px;
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
@@ -240,9 +240,8 @@
 
             .color, 
             .painting {
-                width: 100%;
-                max-width: 400px;
-                height: auto;
+                width: 400px;
+                height: 250px;
                 aspect-ratio: 8/5;
             }
 
