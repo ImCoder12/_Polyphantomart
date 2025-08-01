@@ -232,12 +232,6 @@
                 padding: 40px 0 30px;
             }
 
-            .art-block {
-                flex-direction: column;
-                gap: 15px;
-                margin-bottom: 30px;
-            }
-
             .description, 
             .text-between {
                 max-width: 100%;
